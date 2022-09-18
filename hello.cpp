@@ -1,11 +1,11 @@
 #include <iostream>
 
+int a;
+
 int main()
 {
-    int number = 3;
-    std::cout << number << std::endl;
-    std::cout << number + 1 << std::endl;
-    std::cout << number + 2 << std::endl;
-    std::cout << number + 3 << std::endl;
+    a = 2;
+    int b = a + 2;
+    std::cout << b <<std::endl;
     return 0;
 }
