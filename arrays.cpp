@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+
+using namespace std;
 
 int main()
 {
@@ -6,6 +9,10 @@ int main()
 
     temp_list[3] = 15.4;
     
-    std::cout << temp_list[3] << std::endl;
+    cout << temp_list[3] << endl;
+
+    vector<double> temperatures = { 34.2, 27.9, 26.4 };
+    cout << temperatures.at(0) << endl;
+
     return 0;
 }
