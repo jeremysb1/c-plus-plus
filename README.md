@@ -1,4 +1,4 @@
-# C++ Fundamentals
+# C++
 
-This repo contains exercises from a self-taught C++ curriculum.
+This repo contains exercises and projects from a self-taught C++ curriculum.
 
