@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+// program using cmath library
+
 int main()
 {
     double radius, base, height;
