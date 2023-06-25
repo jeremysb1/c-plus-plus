@@ -4,7 +4,7 @@
 
 int main()
 {
-    double Fahrenheit{}, Celsius{};
+     double Fahrenheit{}, Celsius{};
     std::cout << "Please enter the temperature in Celsius: ";
     std::cin >> Celsius;
 
