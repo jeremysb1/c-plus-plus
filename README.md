@@ -1,6 +1,6 @@
 # C++
 
-This repo contains exercises and projects in C++.
+This repo contains exercises and projects as part of a self-taught curriculum.
 
 Texts include:  
 - Learning C++, 
