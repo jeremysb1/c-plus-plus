@@ -1,6 +1,6 @@
 # C++
 
-This repo contains C++ based exercises and projects.
+This repo contains exercises and projects in C++.
 
 Texts include:  
 - Learning C++, 
