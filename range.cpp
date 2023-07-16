@@ -2,9 +2,9 @@
 
 int main()
 {
-    int arr[] = { 1, 2, 3, 4, 5 };
-    for (int x: arr)
+    char Letters[]{ 'P', 'E', 'N', 'E', 'L', 'O', 'P', 'E'};
+    for (char Letter : Letters)
     {
-        std::cout << x << std::endl;
+        std::cout << Letter << std::endl;
     }
 }
